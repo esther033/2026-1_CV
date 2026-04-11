@@ -1,2 +1,1 @@
 # computervision-course
-computervision-course
